@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m currently working on Fullstack Developer
-- 🌱 I’m currently learning Python & Javascript
+- 🔭 I’m currently doing a Web Development course 
+- 🌱 I’m currently learning Python fullstack development
 - 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for help with django and react
 - 💬 Ask me about python

@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently doing a Web Development course 
+- 🔭 I’m currently doing a Web Development course
 - 🌱 I’m currently learning Python fullstack development
 - 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for help with django and react

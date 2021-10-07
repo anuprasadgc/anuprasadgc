@@ -7,7 +7,7 @@
 - 🔭 I’m currently doing a Web Development course
 - 🌱 I’m currently learning Python fullstack development
 - 👯 I’m looking to collaborate on Web Development
-- 🤔 I’m looking for help with django and react
+- 🤔 I’m looking for help with django and flask
 - 💬 Ask me about python
 - 📫 How to reach me: anuprasadg60@gmail.com
 - 😄 Pronouns: He/Him
